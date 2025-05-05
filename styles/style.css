@@ -119,15 +119,15 @@
 .staff__title {
   font-size: 44px;
   line-height: 52px;
-  margin: 60px 0 0;
-  font-weight: 700;
+  margin: auto;
+  font-weight: 500;
   color: #ffffff;
 }
 
 .staff__subtitle {
   font-size: 20px;
   line-height: 30px;
-  margin: 20px 0 0;
+  margin: 40px 0 0 0;
   font-weight: 300;
   color: #ffffff;
 }
@@ -141,7 +141,7 @@
   padding: 20px;
   box-sizing: border-box;
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-  border-radius: 20px;
+  border-radius: 12px;
 }
 
 .card__title {
@@ -149,15 +149,15 @@
   text-align: left;
   display: flex;
   flex-direction: column;
-  line-height: 28px;
-  margin: 0 0 12px;
+  line-height: 32px;
+  margin: 0 0 12px 0;
 }
 
 .card__text {
   text-align: left;
   font-size: 16px;
   line-height: 24px;
-  margin: 0 0 16px;
+  margin: auto;
   display: -webkit-box;
   -webkit-line-clamp: 6;
   -webkit-box-orient: vertical;
